@@ -20,6 +20,8 @@ The analyses primarily use data from **ABCD Study Release 5.1** with the final a
 The repository is organised by thesis chapter/analysis, with scripts corresponding to different stages of data preparation, analysis, and visualisation.
 
 ```text
+├── README.md
+│
 ├── Study 1
 │
 ├── Study 2
@@ -28,9 +30,7 @@ The repository is organised by thesis chapter/analysis, with scripts correspondi
 │
 ├── Study 4
 │
-├── Study Figures
-│
-└── README.md
+└── Study Figures
 ```
 
 ## Requirements
