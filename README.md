@@ -20,20 +20,18 @@ The analyses primarily use data from **ABCD Study Release 5.1** with the final a
 The repository is organised by thesis chapter/analysis, with scripts corresponding to different stages of data preparation, analysis, and visualisation.
 
 ```text
-├── Chapter 1/
+├── Study 1/
 │   └── ...
-├── Chapter 2/
+├── Study 2/
 │   └── ...
-├── Chapter 3/
+├── Study 3/
 │   └── ...
-├── Chapter 4/
+├── Study 4/
 │   └── ...
-├── Thesis Figures/
+├── Study Figures/
 │   └── ...
 └── README.md
 ```
-
-File and folder names may distinguish between data preparation, statistical modelling, and figure/table generation.
 
 ## Requirements
 
@@ -48,6 +46,9 @@ The repository is intended to document the analytical workflow underlying the th
 ## Data
 
 The analyses use data from the **Adolescent Brain Cognitive Development (ABCD) Study**. Raw and processed participant-level data are not included in this repository.
+
+## AI Declaration
+ChatGPT and ClaudeAI were used to assist with the development and troubleshooting of R code in this repository. All code was reviewed, tested, and adapted by the author, who retains responsibility for the accuracy and reproducibility of the analyses.
 
 ---
 
